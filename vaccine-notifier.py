@@ -51,7 +51,7 @@ while True:
         print("No Vaccination slot available!")
     else:
         mixer.init()
-        mixer.music.load('audio/pikachu.wav')
+        mixer.music.load('pikachu.wav')
         mixer.music.play()
         print("Search Completed!")
  
